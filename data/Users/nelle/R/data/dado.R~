@@ -1,0 +1,6 @@
+dado = 3
+if (dado == 3){
+	print('achou')
+}else{
+	print('nao achou')
+}
